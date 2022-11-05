@@ -20,7 +20,7 @@ const Skills = () => {
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                   <div className="m-auto">
                     <Image
-                      src={`/../public/assets/skills/${skill.name}.png`}
+                      src={`/assets/skills/${skill.name}.png`}
                       width="64"
                       height="64"
                       alt="/"

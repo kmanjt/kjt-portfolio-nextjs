@@ -17,19 +17,19 @@ const Projects = () => {
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem
             title="Renu Ireland"
-            backgroundImg="renu-ireland"
+            backgroundImg={renu}
             projectUrl="https://www.renu-ireland.com/"
             tech="ReactJS, Django, MySQL DB, Firebase, MaterialUI, Bootstrap"
           />
           <ProjectItem
             title="Enactus DCU"
-            backgroundImg="enactusdcu"
+            backgroundImg={enactus}
             projectUrl="https://www.enactusdcu.com"
             tech="React JS"
           />
           <ProjectItem
             title="Enactus DCU Timelogging App"
-            backgroundImg="timelogger"
+            backgroundImg={timelogger}
             projectUrl="/"
             tech="ReactJS, Django, Firebase, MaterialUI, Bootstrap"
           />
