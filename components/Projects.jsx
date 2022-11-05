@@ -25,7 +25,7 @@ const Projects = () => {
             title="Enactus DCU"
             backgroundImg={enactus}
             projectUrl="https://www.enactusdcu.com"
-            tech="React JS"
+            tech="NextJS, TailwindCSS"
           />
           <ProjectItem
             title="Enactus DCU Timelogging App"
