@@ -9,17 +9,17 @@ const Hero = () => {
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
           <p className="uppercase text-sm tracking-widest text-gray-600">
-            Let's build something together!
+            Let&apos;s build something together!
           </p>
           <h1 className="py-4 text-gray-700">
-            Hi, I'm <span className="text-[#5651e5]">Kevin</span>,
+            Hi, I&apos;m <span className="text-[#5651e5]">Kevin</span>,
           </h1>
           <h1 className="py-1 text-gray-700">A Computer Science Student.</h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            I'm a second year DCU Computer Science student in Dublin, Ireland
-            with a passion for fullstack development. I am heavily involved in
-            web development, with several live fullstack projects publicly
-            available on the web!
+            I&apos;m a second year DCU Computer Science student in Dublin,
+            Ireland with a passion for fullstack development. I am heavily
+            involved in web development, with several live fullstack projects
+            publicly available on the web!
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a
