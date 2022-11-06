@@ -21,7 +21,7 @@ export const projectData = [
   {
     name: "Enactus DCU Timelogger",
     src: timelogger,
-    url: "/",
+    url: "wwww.github.com/kmanjt/Time-Logger",
     technologies: "ReactJS, MaterialUI, Django, MySQL DB, Firebase, Bootstrap",
   },
 ];
