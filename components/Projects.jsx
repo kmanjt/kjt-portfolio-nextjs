@@ -30,7 +30,7 @@ const Projects = () => {
           <ProjectItem
             title="Enactus DCU Timelogging App"
             backgroundImg={timelogger}
-            projectUrl="/"
+            projectUrl="https://github.com/kmanjt/Time-Logger"
             tech="ReactJS, Django, Firebase, MaterialUI, Bootstrap"
           />
         </div>
