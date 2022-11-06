@@ -4,7 +4,7 @@ import { skills_list } from "./SkillsData";
 
 const Skills = () => {
   return (
-    <div id="skills" className="w-full lg:h-screen p-2">
+    <div id="skills" className="w-full lg:h-screen p-2 py-16">
       <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-full">
         <p className="text-xl tracking-widest text-[#5651e5] uppercase">
           Skills

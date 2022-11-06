@@ -9,7 +9,7 @@ import timelogger from "../public/assets/projects/timelogger.png";
 const Projects = () => {
   return (
     <div id="projects" className="w-full">
-      <div className="max-w-[1240px] mx-auto px-2 py-16">
+      <div className="max-w-[1240px] mx-auto px-2 p-2 py-16">
         <p className="uppercase tracking-widest text-xl text-[#5651e5]">
           Projects
         </p>
