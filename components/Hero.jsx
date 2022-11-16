@@ -17,8 +17,7 @@ const Hero = () => {
           <h1 className="py-1 text-gray-700">A Computer Science Student.</h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
             I&apos;m a second year DCU Computer Science student in Dublin,
-            Ireland with a passion for fullstack development. I am heavily
-            involved in web development, with several live fullstack projects
+            Ireland with a passion for fullstack development. Heavily involved in web development, with several live fullstack projects
             publicly available on the web!
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
