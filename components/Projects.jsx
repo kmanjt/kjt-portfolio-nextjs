@@ -5,6 +5,7 @@ import { ProjectItem } from "./ProjectData";
 import enactus from "../public/assets/projects/enactusdcu.png";
 import renu from "../public/assets/projects/renu-ireland.png";
 import timelogger from "../public/assets/projects/timelogger.png";
+import pentonyds from "../public/assets/projects/pentonyds.png";
 import { AnimatePresence, motion } from "framer-motion";
 
 const Projects = () => {
@@ -29,6 +30,12 @@ const Projects = () => {
           </p>
           <h2 className="py-4">Public Things I&apos;ve Made</h2>
           <div className="grid md:grid-cols-2 gap-8">
+            <ProjectItem
+              title="Pentony Driving School"
+              backgroundImg={pentonyds}
+              projectUrl="https://www.pentonydrivingschool.com/"
+              tech="ReactJS, NextJS, TailwindCSS"
+            />
             <ProjectItem
               title="Renu Ireland"
               backgroundImg={renu}

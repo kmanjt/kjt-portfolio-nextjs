@@ -1,11 +1,18 @@
 import enactus from "../public/assets/projects/enactusdcu.png";
 import renu from "../public/assets/projects/renu-ireland.png";
 import timelogger from "../public/assets/projects/timelogger.png";
+import pentonyds from "../public/assets/projects/pentonyds.png";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
 export const projectData = [
+  {
+    name: "Pentony Driving School",
+    src: pentonyds,
+    url: "https://www.pentonydrivingschool.com/",
+    technologies: "ReactJS, NextJS, TailwindCSS",
+  },
   {
     name: "Enactus DCU",
     src: enactus,

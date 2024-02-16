@@ -27,12 +27,12 @@ const About = () => {
             </p>
             <h2 className="py-4">Who I Am</h2>
             <p className="py-2 text-gray-600">
-              I am a second year Computer Science student studying at Dublin
-              City University. I am from Dublin, Ireland with a Romanian
-              familial background. I absolutely love programming and finding
+              I am a third year Computer Science student studying at Dublin
+              City University. I'm from Dublin, Ireland with a Romanian
+              family background. I  love programming and finding
               solutions to real world problems and frustrations through my work.
               To me, programming is a creative outlet which allows me to express
-              myself.
+              myself and help others.
             </p>
             <Link href="#projects">
               <p className="py-2 text-gray-600 underline cursor-pointer">
