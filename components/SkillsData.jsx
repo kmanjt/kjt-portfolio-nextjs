@@ -1,5 +1,8 @@
 export const skills_list = [
   {
+    name: "dotnet",
+  },
+  {
     name: "python",
   },
   {
